@@ -21,7 +21,7 @@ jobs:
 
       - name: Build the package
         run: mvn --batch-mode -DskipTests package
-        working-directory: primes-service
+        working-directory: .
 
       - name: Report
         uses: dorny/test-reporter@v1
