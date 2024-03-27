@@ -1,5 +1,6 @@
 package edu.iu.ramosjaa.primesservice.service;
 
+import edu.iu.ramosjaa.primesservice.service.PrimesService;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
